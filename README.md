@@ -2,6 +2,8 @@
 
 Showcase project of displaying 100 sweeping trends with 1000 Hz data rate each in one view.
 
+https://github.com/user-attachments/assets/11aac535-0dc4-48df-bba0-272864902371
+
 Based on this [online example](https://lightningchart.com/js-charts/interactive-examples/examples/lcjs-example-0041-sweepingLineChartNew.html)
 
 LightningChart JS is much more optimized for scrolling time windows (for example, [this example](https://lightningchart.com/js-charts/interactive-examples/examples/lcjs-example-0028-multiChannelLineProgressiveOwnAxes.html)) but as seen in this example the performance is still amazing even for sweeping graphs.
